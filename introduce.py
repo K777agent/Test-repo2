@@ -3,3 +3,4 @@ print(i)
 Lostark
 bang!
 why so seriouse?
+a = 1
